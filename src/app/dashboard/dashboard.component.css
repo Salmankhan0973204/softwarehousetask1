@@ -1,0 +1,65 @@
+
+ @import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700);
+.page_titles {
+    background: #fff;
+    padding: 14px 10px;
+    margin: 0 -25px 25px -25px;
+}
+.page-titles h4 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.h4, h4 {
+    font-size: 18px;}
+
+.page-titles .breadcrumb {
+    padding: 0px;
+    margin: 0px;
+    background: transparent;
+    font-size: 12px;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+  }    
+.btn-info {
+    color: #fff;
+    background-color: rgba(131,19,58,1);
+    border-color: rgba(131,19,58,1);
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+
+
+#Real{
+     color: #fb9678;
+    font-weight: 500;
+    padding-right: 1rem;
+    padding-left: 3px;
+   
+}  
+.page-titles .breadcrumb .breadcrumb-item+.breadcrumb-item:before {
+    content: "\e649";
+    font-family: themify;
+   
+    font-size: 11px;
+}
+
+.card-body {
+   
+    padding: 1.25rem;
+}
+.m-t-20 {
+    margin-top: 20px;
+}
+
+ .m-b-10 {
+    margin-bottom: 10px;
+}
+.ml-auto, .mx-auto {
+    margin-left: auto!important;
+}
+

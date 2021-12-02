@@ -1,0 +1,122 @@
+.contact-list td img {
+  width: 30px;
+}
+.img-circle {
+  border-radius: 100%;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+.m-t-40 {
+    margin-top: 40px}
+
+#Real{
+     color: rgba(131,19,58,1);
+    font-weight: 500;
+    padding-right: 1rem;
+    padding-left: 3px;
+   
+}      
+
+.btn-info {
+    color: #fff;
+    background-color: rgba(131,19,58,1);
+    border-color: rgba(131,19,58,1);
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+.footable .pagination li.active a {
+    z-index: 2;
+    color: #fff;
+    background-color: #0275d8;
+    border-color: #0275d8;
+}
+
+.box {
+    border-radius: 0.25rem;
+    padding: 10px;
+}
+#demo-foo-addrow{
+    margin-top: 3rem;
+}
+.bg-info {
+    background-color: rgba(131,19,58,1)!important;
+}
+.bg-primary {
+    background-color: #fb9678!important;
+}
+a {
+    color: #fb9678;
+    text-decoration: none;
+    background-color: transparent;
+}
+#tbody{
+    color: #6c757d !important;
+    border: none !important;
+    overflow-x:scroll;
+}
+.label-warning {
+    background-color: #fec107;
+}
+.label-success {
+    background-color: #00c292;
+}
+.label-inverse {
+    background-color: #343a40;
+}
+.label {
+    padding: 3px 10px;
+    line-height: 13px;
+    color: #fff;
+    font-weight: 400;
+    border-radius: 0.25rem;
+    font-size: 75%;
+}
+
+.pagination {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: 0.25rem;
+}
+.pagination li.active a {
+    z-index: 2;
+    color: #fff;
+    background-color: #0275d8;
+    border-color: #0275d8;
+}
+.footable .pagination li a {
+    position: relative;
+    display: block;
+    padding: 0.5rem 0.75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #0275d8;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+#label {
+   
+    line-height: 13px;
+    color: #dc3545;
+    font-weight: 400;
+    border-radius: 0.25rem;
+    font-size: 75%;
+         text-align: center;
+   
+    
+   
+    
+}
+
+
+.label-primary {
+    background-color: #fb9678;
+ 
+}
+
+    
+
